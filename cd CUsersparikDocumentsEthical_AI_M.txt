@@ -1,0 +1,5 @@
+cd "C:\Users\parik\Documents\Ethical_AI_Major_Project"
+
+venv\Scripts\activate
+
+python -m streamlit run src\finalapp2.py
